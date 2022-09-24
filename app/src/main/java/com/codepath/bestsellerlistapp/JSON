@@ -1,0 +1,7 @@
+"status"           // string
+"copyright"        // string
+"num_results"      // number
+"results"          // nested json
+  ├─ "list_name"
+  ├─ ...
+  ├─ "books" ⭐️    // list of json entries
